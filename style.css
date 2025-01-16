@@ -1,0 +1,228 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #0B0B0E;
+}
+
+header {
+
+    display: flex;
+    justify-content: space-around;
+}
+
+.header-container {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    max-width: 1040px;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.Earn {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+main {
+    margin-top: 112px;
+
+    display: flex;
+
+    justify-content: center;
+}
+
+.main-container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 112px;
+    max-width: 1040px;
+    width: 100%;
+}
+
+.internet-div {
+    display: flex;
+    justify-content: space-between;
+}
+
+.image20 {
+    max-width: 381px;
+    width: 100%;
+}
+
+.Layer-div {
+
+    max-width: 564px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+
+}
+
+.leyar {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 56px;
+}
+
+.favorite {
+    color: #7A7A7A;
+
+    font-family: Inter;
+    font-size: 16px;
+}
+
+.Create-button {
+    display: flex;
+    gap: 10px;
+
+}
+
+.Create {
+    border-radius: 24px;
+    background: #FF371A;
+    color: #FFF;
+
+    font-family: Inter;
+    font-size: 16px;
+
+    padding: 12px 24px;
+    border: none;
+}
+
+.dagent {
+    border-radius: 24px;
+    border: 1px solid #2F2C33;
+    padding: 12px 24px;
+    background: #0B0B0E;
+    color: #FFF;
+
+    font-family: Inter;
+    font-size: 16px;
+}
+
+.worlds {
+    color: #7A7A7A;
+
+    font-family: Inter;
+    font-size: 16px;
+}
+
+.innovate-div {
+    display: flex;
+    width: 1040px;
+    flex-direction: column;
+
+    gap: 32px;
+}
+
+.Eternal {
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 70px;
+}
+
+.innovate-box {
+    display: flex;
+    align-items: flex-start;
+    gap: 24px;
+
+}
+
+.enternal-div {
+    display: flex;
+    padding: 16px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 24px;
+    max-width: 508px;
+    width: 100%;
+}
+
+.Decentralized {
+    color: #FFF;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    font-family: Inter;
+    font-size: 20px;
+}
+
+.Fully {
+    color: #797979;
+
+    font-family: Inter;
+    font-size: 16px;
+
+}
+
+.inference {
+    display: flex;
+    height: 178px;
+    align-items: center;
+    gap: 24px;
+    border-radius: 12px;
+    background: #191919;
+    max-width: 508px;
+    width: 100%;
+}
+
+.API {
+    color: #FFF;
+
+    font-family: Inter;
+    font-size: 20px;
+}
+
+.API-div {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+}
+
+.img-div {
+    width: 100%;
+}
+
+.Switch {
+    color: #797979;
+
+    font-family: Inter;
+    font-size: 16px;
+}
+
+.agen {
+    border-radius: 12px;
+    background: #191919;
+    padding: 16px;
+}
+
+.power-div {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 24px;
+}
+
+.power-box {
+    display: flex;
+    padding: 16px;
+    align-items: center;
+    gap: 24px;
+    border-radius: 12px;
+    background: #191919;
+    height: 279px;
+}
