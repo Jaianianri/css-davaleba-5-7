@@ -143,7 +143,7 @@ main {
 
 .enternal-div {
     display: flex;
-    padding: 16px;
+
     flex-direction: column;
     align-items: flex-start;
     gap: 24px;
@@ -177,6 +177,7 @@ main {
     background: #191919;
     max-width: 508px;
     width: 100%;
+    padding: 16px;
 }
 
 .API {
@@ -225,4 +226,363 @@ main {
     border-radius: 12px;
     background: #191919;
     height: 279px;
+}
+
+.love-container {
+    display: flex;
+    max-width: 1040px;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    gap: 32px;
+}
+
+.love-box {
+    display: flex;
+    max-width: 768px;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.Wall {
+    color: #FFF;
+
+    text-align: center;
+    font-family: Inter;
+    font-size: 36px;
+}
+
+.hand {
+    color: #7A7A7A;
+
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+}
+
+.star-container {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+}
+
+.star-box {
+    display: flex;
+    width: 508px;
+    min-width: 360px;
+    padding: 32px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 32px;
+    border-radius: var(--radius-xl, 12px);
+    background: #191919;
+}
+
+.Untitled {
+    color: #FFF;
+
+    font-family: Inter;
+    font-size: 16px;
+}
+
+.Untitled-div {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+}
+
+.Hewitt-div {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+
+
+.Hewitt {
+    color: #535862;
+
+    font-family: Inter;
+    font-size: 16px;
+}
+
+.hev {
+    gap: 12px;
+    display: flex;
+    align-items: center;
+}
+
+.thinking-container {
+    display: flex;
+    max-width: 1040px;
+    width: 100%;
+    padding: 64px;
+    flex-direction: column;
+    align-items: center;
+    gap: 32px;
+    border-radius: 16px;
+    background: #191919;
+}
+
+.about-div {
+    display: flex;
+    max-width: var(--width-xl, 768px);
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.Still {
+    color: #FFF;
+
+    text-align: center;
+    font-family: Inter;
+    font-size: 36px;
+}
+
+.newsletterr {
+    color: #7A7A7A;
+
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+}
+
+.subscribe-div {
+    display: flex;
+    max-width: 480px;
+    align-items: flex-start;
+    width: 100%;
+    gap: 16px;
+}
+
+.gmaill {
+    display: flex;
+    padding: 12px 14px;
+    align-items: center;
+    gap: 8px;
+    border-radius: 8px;
+    border: 1px solid #7A7A7A;
+    width: 338px;
+
+    background: #0B0B0E;
+}
+
+.data {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 6px;
+    max-width: 338px;
+    width: 100%;
+}
+
+.privacyy {
+    color: #7A7A7A;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+}
+
+.Subscribe {
+    display: flex;
+    padding: 12px 24px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 12px;
+    background: #FF371A;
+}
+
+.sub {
+    color: #FFF;
+    background: #FF371A;
+    font-family: Inter;
+    font-size: 16px;
+    border: none;
+}
+
+.Customize-container {
+    display: flex;
+    max-width: 1040px;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+}
+
+.Price {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+.Withh {
+    color: #FFF;
+
+    font-family: Inter;
+    font-size: 45px;
+}
+
+.eros {
+    color: #7A7A7A;
+
+    font-family: Inter;
+    font-size: 18px;
+}
+
+.dolar-container {
+    display: flex;
+
+    justify-content: center;
+    align-items: flex-start;
+    gap: 24px;
+
+
+}
+
+.dolar-box {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+    background: #191919;
+    padding: 40px;
+    max-width: 330px;
+    width: 100%;
+}
+
+.dolar {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.dolar-div {
+    display: flex;
+    width: 125px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 3px;
+}
+
+.plan {
+    color: #FFF;
+
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+}
+
+.plan-div {
+    color: #FFF;
+
+    font-family: Mulish;
+    font-size: 30px;
+    font-style: normal;
+}
+
+.Per {
+    color: #7A7A7A;
+
+    font-family: Inter;
+    font-size: 16px;
+}
+
+.img-div {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 44px;
+}
+
+.Service {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.trical {
+    display: flex;
+    align-items: center;
+    gap: 11px;
+}
+
+.Now {
+    display: flex;
+    padding: 20px 80px 21px 80px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border: 1.5px solid #FF371A;
+
+    background: #FF371A;
+}
+
+.Buy {
+    color: #FFF;
+    background: #FF371A;
+    font-family: Inter;
+    font-size: 20px;
+    border: none;
+    max-width: 250px;
+    width: 100%;
+}
+
+.imgLine {
+    max-width: 304px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.Site {
+    display: flex;
+    padding: 20px 80px 21px 80px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border: 1.5px solid #FF371A;
+}
+
+.lightingg {
+    color: #FFF;
+    border: none;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    background: #191919;
+}
+
+.wichka-div {
+    display: flex;
+    align-items: flex-start;
+    gap: 82px;
+}
+
+.wichka {
+    display: flex;
+    align-items: flex-start;
+    gap: 13px;
+}
+.Pricee {
+    color: #FFF;
+font-family: Inter;
+font-size: 20px;
+}
+.diam {
+    color: #7A7A7A;
+
+font-family: Inter;
+font-size: 18px;
+}
+.temporr {
+    display: flex;
+flex-direction: column;
+align-items: flex-start;
+gap: 5px;
+max-width: 432px;
+width: 100%;
 }
