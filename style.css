@@ -567,22 +567,139 @@ main {
     align-items: flex-start;
     gap: 13px;
 }
+
 .Pricee {
     color: #FFF;
-font-family: Inter;
-font-size: 20px;
+    font-family: Inter;
+    font-size: 20px;
 }
+
 .diam {
     color: #7A7A7A;
 
-font-family: Inter;
-font-size: 18px;
+    font-family: Inter;
+    font-size: 18px;
 }
+
 .temporr {
     display: flex;
-flex-direction: column;
-align-items: flex-start;
-gap: 5px;
-max-width: 432px;
-width: 100%;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 5px;
+    max-width: 432px;
+    width: 100%;
+}
+
+footer {
+    margin-top: 112px;
+
+    display: flex;
+
+    justify-content: center;
+}
+
+.footer-container {
+    display: flex;
+    flex-direction: column;
+    gap: 64px;
+    max-width: 1040px;
+    width: 100%;
+    align-items: flex-start;
+    ;
+
+}
+
+.footer-box {
+    display: flex;
+    gap: 24px;
+}
+
+.footer-img {
+    display: flex;
+
+    max-width: 320px;
+    width: 100%;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 32px;
+}
+
+.amazingg {
+    color: #FFF;
+
+    font-family: Inter;
+    font-size: 16px;
+}
+
+.footer-product {
+    display: flex;
+    max-width: 800px;
+    width: 100%;
+    align-items: flex-start;
+    gap: 16px;
+}
+
+.Productt {
+    color: #FFF;
+
+    font-family: Inter;
+    font-size: 14px;
+}
+
+.footer-Overview {
+    display: flex;
+    width: 176px;
+    min-width: 96px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+}
+
+.Pricingg {
+    color: #535862;
+
+    font-family: Inter;
+    font-size: 16px;
+}
+
+.new {
+    color: #FFF;
+
+    text-align: center;
+    font-family: Inter;
+    font-size: 12px;
+    font-style: normal;
+
+
+    padding: 2px 6px;
+    align-items: center;
+    border-radius: 6px;
+    border: 1px solid rgba(255, 255, 255, 0.30);
+
+    background: rgba(255, 255, 255, 0.10);
+}
+
+.Tutorialss {
+    color: #535862;
+
+    font-family: Inter;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.footer-Untitled {
+    display: flex;
+    padding-bottom: 32px;
+    align-items: center;
+    gap: 32px;
+    align-self: stretch;
+}
+
+.UI {
+    color: #FFF;
+
+    font-family: Inter;
+    font-size: 16px;
 }
